@@ -1,0 +1,15 @@
+{
+  "name": "nu-frontend-code-challenge",
+  "version": "1.0.0",
+  "description": "NU Technology Frontend Coding Challenge",
+  "main": "index.js",
+  "repository": "git@github.com:selvam-murugan-nu/Nu-fronend-code-challange.git",
+  "author": "NU Technology Recruiting Team",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
